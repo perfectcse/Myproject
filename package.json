@@ -1,0 +1,14 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "start": "live-server --port=3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
